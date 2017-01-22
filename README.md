@@ -1,2 +1,2 @@
-# gameboy-color
-A Gameboy Color emulator
+# gameboy-emulator
+A Gameboy emulator
